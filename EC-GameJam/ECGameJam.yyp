@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "9e8dcd52-d228-4a67-a302-af8ecf88ee5c",
+            "Value": {
+                "id": "0c1fca27-e1de-4d42-b644-2426cf446eda",
+                "resourcePath": "objects\/oBoy\/oBoy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9ec95749-3793-4179-a5aa-bc9000cef90a",
             "Value": {
                 "id": "3adbc0c1-b845-4dc4-9bbd-c8862e58934d",
