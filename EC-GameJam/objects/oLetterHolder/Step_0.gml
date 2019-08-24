@@ -3,7 +3,7 @@
 
 // check if removing letter
 
-if keyboard_check_pressed (vk_backspace) {
+if keyboard_check_pressed(vk_backspace) {
 	for (var i=array_length_1d(oBridge.bridge)-1; i>=0; i--) {
 	
 		var b = oBridge.bridge[i];
@@ -12,8 +12,8 @@ if keyboard_check_pressed (vk_backspace) {
 			var l = b.myLetter;
 			b.myLetter = noone;
 		
-			l.x = l.xstart;
-			l.y = l.ystart;
+			l.x = l.startingX;
+			l.y = l.startingY;
 			l.placed = false;
 			break;
 		}
