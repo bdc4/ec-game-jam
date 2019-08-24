@@ -63,6 +63,22 @@
             }
         },
         {
+            "Key": "3b3f4094-01ef-4e6c-b6ad-6077eb69d9e9",
+            "Value": {
+                "id": "9a6cb6e3-15af-4c9b-b5d1-c56e3d47ecff",
+                "resourcePath": "sprites\\sLetter\\sLetter.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "474ab36d-3bf1-42dc-99fe-d7a452106836",
+            "Value": {
+                "id": "6783430c-bd35-415c-9a95-b404055fc958",
+                "resourcePath": "objects\\oLetterHolder\\oLetterHolder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "509ca842-2c08-42c8-a09f-09da5555163a",
             "Value": {
                 "id": "784b93c1-eac4-4cb8-909a-1b026ef3e9c9",
@@ -84,6 +100,14 @@
                 "id": "476ade37-b38f-42b0-9676-53dfb33d957a",
                 "resourcePath": "views\\6644d56e-ad48-4977-b45e-9d126d666bf5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6b6738e3-c73e-44d0-aab8-33e410595ba1",
+            "Value": {
+                "id": "2e5a5233-4b2f-44bb-b040-7d66e742de4b",
+                "resourcePath": "rooms\\roomLetterTest\\roomLetterTest.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -183,11 +207,35 @@
             }
         },
         {
+            "Key": "cd8d8f75-f040-47bf-bf20-b55858d001b4",
+            "Value": {
+                "id": "69aafe5c-04c4-4a7a-acf8-ccd532772dea",
+                "resourcePath": "sprites\\sLetterHolder\\sLetterHolder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cff2ec4e-350f-4860-94f1-00efa5388a88",
+            "Value": {
+                "id": "02510d5d-bf39-4424-a592-1cbf088f56d3",
+                "resourcePath": "objects\\oLetter\\oLetter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d653f260-e88c-4f47-b7d8-04a15e905e9f",
             "Value": {
                 "id": "b8b103bd-c8a6-4d9e-b11a-1d9543bc8940",
                 "resourcePath": "views\\d653f260-e88c-4f47-b7d8-04a15e905e9f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d9cdae74-c0f1-4c24-9035-b00607e6bdd2",
+            "Value": {
+                "id": "c1f2cd97-c6b3-42d7-b056-f1ebc3db3b73",
+                "resourcePath": "objects\\oBridge\\oBridge.yy",
+                "resourceType": "GMObject"
             }
         },
         {
