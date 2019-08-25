@@ -1,9 +1,12 @@
 /// @description Init Vars
 
-gravity = 1.0;
-speed = 1.0;
-direction = 0;
-image_speed = 0.25;
+//gravity = 1.0;
+
+
+hsp = 0;
+vsp = 0;
+
+tilemap = layer_tilemap_get_id("Collision");
 
 
 enum BOY 
@@ -15,9 +18,9 @@ enum BOY
 	FALL = 4
 }
 
-state = IDLE;
+state = BOY.IDLE;
 
-right = keyboard_check(vk_right);
-left = keyboard_check(vk_left);
-jump = keyboard_check_pressed(vk_up);
+right = 0
+left = 0
+jump = 0
 
